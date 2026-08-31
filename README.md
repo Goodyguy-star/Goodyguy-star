@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Goodyguy-star/Goodyguy-star)
-- Live Site URL: [Add live site URL here](https://goodyguy-star.github.io/Goodyguy-star)
+- Solution URL: [https://github.com/Goodyguy-star/Goodyguy-star](https://github.com/Goodyguy-star/Goodyguy-star)
+- Live Site URL: [https://goodyguy-star.github.io/Goodyguy-star](https://goodyguy-star.github.io/Goodyguy-star)
 
 ## My process
 
