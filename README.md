@@ -64,7 +64,7 @@ I would love to dwell more in css design especially meeting WCAG requirements.
 
 ### Useful resources
 
-- [Freecodecamp](https://freecodecamp.com) - This helped me for adjusting my content to different screen sizes, as I also do most of my projects in there.
+- [Freecodecamp](https://freecodecamp.org) - This helped me for adjusting my content to different screen sizes, as I also do most of my projects in there.
 
 ### AI Collaboration
 
